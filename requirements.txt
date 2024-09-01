@@ -1,0 +1,5 @@
+asyncio==3.4.3
+edge_tts==6.1.12
+moviepy==1.0.3
+pywin32==306
+sv_ttk==2.6.0
